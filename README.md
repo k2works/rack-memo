@@ -22,3 +22,4 @@ curl http://localhost:9292/foo?name=Ruby
 # 参照
 
 + [Rack: a Ruby Webserver Interface](http://rack.github.io/)
++ [パーフェクトRuby](http://gihyo.jp/book/2013/978-4-7741-5879-2)
