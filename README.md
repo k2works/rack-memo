@@ -16,5 +16,6 @@ curl http://localhost:9292/ -d "name=Ruby"
 curl http://localhost:9292/foo?name=Ruby
 ```
 
+### Rackのミドルウェア機構
 
 # 参照
