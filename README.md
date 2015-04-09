@@ -7,14 +7,14 @@ Rackメモ
 | OS X           |10.8.5        |             |
 |           　　　|        |             |
 
-# 構成
-+ [パート１](#1)
-+ [パート２](#2)
-+ [パート３](#3)
+## Rackを使ってみよう
+### Rackのリクエストクラスとレスポンスクラス
 
-# 詳細
-## <a name="1">パート１</a>
-## <a name="2">パート２</a>
-## <a name="3">パート３</a>
+```
+curl http://localhost:9292/?name=Ruby
+curl http://localhost:9292/ -d "name=Ruby"
+curl http://localhost:9292/foo?name=Ruby
+```
+
 
 # 参照
